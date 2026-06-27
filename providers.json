@@ -1,0 +1,7 @@
+{
+  "panels": [
+    { "id": "panel_a", "name": "Panel A (নমুনা)" },
+    { "id": "panel_b", "name": "Panel B (নমুনা)" },
+    { "id": "panel_c", "name": "Panel C (নমুনা)" }
+  ]
+}
